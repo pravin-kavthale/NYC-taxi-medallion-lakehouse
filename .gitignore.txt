@@ -1,0 +1,6 @@
+data/raw/
+*.parquet
+.env
+*.pem
+*.csv
+!data/sample/*.csv
